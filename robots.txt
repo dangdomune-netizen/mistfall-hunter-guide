@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mistfallhunter.help/sitemap.xml
+Sitemap: https://www.mistfallhunter.help/sitemap.xml
